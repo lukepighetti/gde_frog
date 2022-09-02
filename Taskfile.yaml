@@ -1,0 +1,10 @@
+version: '3'
+
+tasks:
+  build: dart_frog build
+  deploy: |
+    gcloud run deploy gde-frog \
+    --source build \
+    --project=lukes-twitch \
+    --region=us-east1 \
+    --allow-unauthenticated

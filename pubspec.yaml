@@ -1,5 +1,5 @@
-name: frog_test
-description: An new Dart Frog application
+name: gde_frog
+description: A Dart Frog server that makes it easy to generate GDE phrases
 version: 1.0.0+1
 publish_to: none
 

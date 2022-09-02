@@ -1,12 +1,15 @@
-# frog_test
+# gde_frog
 
-[![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
-[![License: MIT][license_badge]][license_link]
-[![Powered by Dart Frog](https://img.shields.io/endpoint?url=https://tinyurl.com/dartfrog-badge)](https://dartfrog.vgv.dev)
+Generate your own GDE moniker using `gde_frog`!
 
-An example application built with dart_frog
+Currently live on Google Cloud Run at https://gde-frog-t74f7n263a-ue.a.run.app/gde
 
-[license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
-[license_link]: https://opensource.org/licenses/MIT
-[very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
-[very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
+Some examples:
+
+ - Gratiously Dorklike Engineer
+ - Gelatinously Dandyish Engineer
+ - Gematrically Diathermanous Engineer
+ - Gesturally Defecatory Engineer
+ - Groinward Diachronous Engineer
+ - Geohistorically Demential Engineer
+ - Gainlessly Doughy Engineer

@@ -1,6 +1,7 @@
 version: '3'
 
 tasks:
+  serve: dart_frog dev
   build: dart_frog build
   deploy: |
     gcloud run deploy gde-frog \

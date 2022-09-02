@@ -2,7 +2,7 @@
 
 Generate your own GDE moniker using `gde_frog`!
 
-Currently live on Google Cloud Run at https://gde-frog-t74f7n263a-ue.a.run.app/gde
+Currently live on Google Cloud Run at https://gde-frog-t74f7n263a-ue.a.run.app/gde/7
 
 Some examples:
 

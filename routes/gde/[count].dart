@@ -9,8 +9,8 @@ Response onRequest(RequestContext context, String count) {
     body: List.generate(
       (int.tryParse(count) ?? 1).clamp(1, 1000),
       (_) {
-        final adverb = adverbs[Random().nextInt(adverbs.length - 1)];
-        final adjective = adjectives[Random().nextInt(adjectives.length - 1)];
+        final adverb = adverbs[Random().nextInt(adverbs.length)];
+        final adjective = adjectives[Random().nextInt(adjectives.length)];
         return '${adverb.capitalize()} ${adjective.capitalize()} Engineer';
       },
     ).join('\n'),
